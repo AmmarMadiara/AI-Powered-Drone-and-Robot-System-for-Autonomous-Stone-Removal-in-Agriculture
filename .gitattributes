@@ -1,2 +1,7 @@
 detection_resualts/weights/*.pt filter=lfs diff=lfs merge=lfs -text
 stone_analysis/detections_utm.csv filter=lfs diff=lfs merge=lfs -text
+data.zip filter=lfs diff=lfs merge=lfs -text
+training_dataset.zip filter=lfs diff=lfs merge=lfs -text
+data001.zip filter=lfs diff=lfs merge=lfs -text
+data002.zip filter=lfs diff=lfs merge=lfs -text
+data003.zip filter=lfs diff=lfs merge=lfs -text
