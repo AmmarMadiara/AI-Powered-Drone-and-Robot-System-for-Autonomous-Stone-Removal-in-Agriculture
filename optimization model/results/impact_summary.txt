@@ -1,0 +1,15 @@
+IMPACT SUMMARY (baseline = Baseline)
+Positive relative_improvement_median => better than baseline (lower median).
+
+time_to_first_feasible: Baseline vs Baseline | median=1.053 (base 1.053) | rel_impr=0
+time_to_best_incumbent: Baseline vs Baseline | median=1066 (base 1066) | rel_impr=0
+final_gap_pct: Baseline vs Baseline | median=2.138 (base 2.138) | rel_impr=0
+time_to_first_feasible: Baseline + Symmetry Breaking vs Baseline | median=2.446 (base 1.053) | rel_impr=-1.32
+time_to_best_incumbent: Baseline + Symmetry Breaking vs Baseline | median=376.9 (base 1066) | rel_impr=0.646
+final_gap_pct: Baseline + Symmetry Breaking vs Baseline | median=1.683 (base 2.138) | rel_impr=0.213
+time_to_first_feasible: Baseline + Valid Inequalities vs Baseline | median=1.054 (base 1.053) | rel_impr=-0.00143
+time_to_best_incumbent: Baseline + Valid Inequalities vs Baseline | median=733.3 (base 1066) | rel_impr=0.312
+final_gap_pct: Baseline + Valid Inequalities vs Baseline | median=2.185 (base 2.138) | rel_impr=-0.0217
+time_to_first_feasible: Baseline + Valid Inequalities + Symmetry Breaking vs Baseline | median=1.822 (base 1.053) | rel_impr=-0.732
+time_to_best_incumbent: Baseline + Valid Inequalities + Symmetry Breaking vs Baseline | median=1701 (base 1066) | rel_impr=-0.596
+final_gap_pct: Baseline + Valid Inequalities + Symmetry Breaking vs Baseline | median=1.986 (base 2.138) | rel_impr=0.071
